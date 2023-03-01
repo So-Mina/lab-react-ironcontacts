@@ -73,10 +73,10 @@ td:last-child, th {
 
 button {
   border-radius: 0.5rem;
-  border: 1px dashed rgb(65, 196, 236);
+  border: 1px solid gold;
   padding: 0.5rem;
-  background-color: rgb(65, 196, 236);
-  color: white;
+  background-color: black;
+  color: gold;
   font-weight: 600;
   font-size:medium;
   box-shadow: 0.2rem 0.2rem 0.2rem lightgray;
@@ -84,10 +84,10 @@ button {
 
 button:hover {
   border-radius: 0.5rem;
-  border: 1px dashed rgb(65, 196, 236);
+  border: 1px solid black;
   padding: 0.5rem;
-  background-color: white;
-  color: rgb(65, 196, 236);
+  background-color: gold;
+  color: black;
   font-weight: 600;
   box-shadow: 0.2rem 0.2rem 0.2rem darkgrey;
   cursor: pointer;
